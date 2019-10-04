@@ -3,6 +3,7 @@
 export("%>%")
 export(govcolumn)
 export(govuk_colours)
+export(scale_gov)
 export(theme_gov)
 import(dplyr)
 import(ggplot2)
